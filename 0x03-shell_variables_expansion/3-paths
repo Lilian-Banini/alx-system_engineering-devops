@@ -1,2 +1,0 @@
-#!/bin/bash
-echo $PATH | tr -s 's''\n' | wc -1
